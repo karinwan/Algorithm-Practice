@@ -1,2 +1,2 @@
-# Leetcode-Solutions
-My algorithm practice with Leetcode. 
+# Algorithm-Practice
+My algorithm practice with problems from resources like Leetcode. 
